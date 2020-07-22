@@ -1,0 +1,23 @@
+body{
+    font-family:"open sans"
+}
+.button{
+    background-color: #f0f0f0 ;
+    border: none;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 9px, 8px;
+    cursor: pointer;
+}
+#metext{
+    padding-right: 4%;
+    padding-top:10%
+}
+#myphoto{
+    padding-left: 4%;
+    padding-top: 6%;
+    padding-right: 7%;
+}
